@@ -35,4 +35,5 @@
 
 .container div.dua {
     flex: 3;
+    align-self: flex-end;
 }
