@@ -5,10 +5,12 @@
     padding: 5px;
     box-sizing: border-box;
     display: flex;
+    flex-direction: column-reverse;
 }
 
 .container div {
     width: 100px;
     height: 100px;
     background-color: lightskyblue;
+    margin: 2px;
 }
