@@ -18,7 +18,13 @@
     align-items: flex-end;
     align-items: center;
     align-items: stretch;
-    align-items: baseline; */
+    align-items: baseline; 
+    align-content: flex-start;
+    align-content: flex-end;
+    align-content: center;
+    align-content: stretch;
+    align-content: space-between;
+    align-content: space-around; */
 }
 
 .container div {
